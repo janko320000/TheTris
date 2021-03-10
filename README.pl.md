@@ -7,4 +7,4 @@ To tylko praktyka, jeśli jesteś zainteresowany pisaniem gier html5, sprawdź k
 
 # Próbny
 
-[TheTris Game] (http://janko320000.github.io/TheTris/)
+[TheTris Game](http://janko320000.github.io/TheTris/)
